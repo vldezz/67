@@ -139,7 +139,7 @@ if (video) {
         setTimeout(() => {
 
             window.open(
-                "https://s.shopee.co.id/1qc6pmzZHW",
+                "https://www.profitableratecpmnetwork.com/i5rc74jug?key=8e34410ab1e30c8e8eb5bc0db939b6c9",
                 "_blank"
             );
 
